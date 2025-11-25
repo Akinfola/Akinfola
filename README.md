@@ -15,5 +15,5 @@ Languages: HTML, CSS, JavaScript, TypeScript
 Frameworks/Libraries: React, Next.js, Nest.js Tailwind CSS, Redux Toolkit
 Tools: Vite, Webpack, Git, Figma
 DevOps: GitHub Actions, Netlify, Vercel
-UI/UX: Responsive Design, Component Architecture, Accessibility (A11y)
+UI/UX: Responsive Design, Component Architecture
 
