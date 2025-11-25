@@ -12,11 +12,8 @@ Welcome to my GitHub! I'm a passionate Frontend Developer who loves crafting bea
 🧰 Tech Stack
 
 Languages: HTML, CSS, JavaScript, TypeScript
-Frameworks/Libraries: React, Next.js, Tailwind CSS, Redux Toolkit
+Frameworks/Libraries: React, Next.js, Nest.js Tailwind CSS, Redux Toolkit
 Tools: Vite, Webpack, Git, Figma
 DevOps: GitHub Actions, Netlify, Vercel
 UI/UX: Responsive Design, Component Architecture, Accessibility (A11y)
 
-📈 GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Akinfola&show_icons=true&theme=radical) 
-🌐 Connect with Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayodeleejide)
