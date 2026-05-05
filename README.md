@@ -1,6 +1,6 @@
 Hi there, I'm Akinfola 👋
 
-Welcome to my GitHub! I'm a passionate Frontend Developer who loves crafting beautiful, responsive, and intuitive user interfaces. I turn ideas into pixel-perfect, scalable experiences that users enjoy.
+Welcome to my GitHub! I'm a passionate Fullstack Developer who loves crafting beautiful, responsive, and intuitive user interfaces. I turn ideas into pixel-perfect, scalable experiences that users enjoy.
 
 🚀 About Me
 
