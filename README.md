@@ -1,19 +1,21 @@
-Hi there, I'm Akinfola 👋
+# Hi, I'm Akinfola 👋
 
-Welcome to my GitHub! I'm a passionate Fullstack Developer who loves crafting beautiful, responsive, and intuitive user interfaces. I turn ideas into pixel-perfect, scalable experiences that users enjoy.
+Full-stack developer (TypeScript, Next.js, Node.js, PostgreSQL) based in Lagos, Nigeria. I build secure backends and clean, responsive UIs, and I'm currently a backend engineer on a fintech platform.
 
-🚀 About Me
+## What I work with
 
-🔭 I’m currently building modern, user-friendly frontend applications
-🌱 Always learning new UI frameworks, design systems, and performance optimization techniques
-🎨 Skilled in creating clean, accessible, and responsive interfaces
-⚡ Fun fact: I can turn any design into clean, production-ready code
+- **Languages:** TypeScript, JavaScript, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, REST APIs, PostgreSQL, MongoDB, Redis, Kafka
+- **Tools and deployment:** Docker, Git, GitHub Actions, Vercel
+- **AI-assisted development:** Claude, Codex, ChatGPT
 
-🧰 Tech Stack
+## Projects
 
-Languages: HTML, CSS, JavaScript, TypeScript
-Frameworks/Libraries: React, Next.js, Nest.js Tailwind CSS, Redux Toolkit
-Tools: Vite, Webpack, Git, Figma
-DevOps: GitHub Actions, Netlify, Vercel
-UI/UX: Responsive Design, Component Architecture
+- **[Horizon](https://horizon-fullstack.vercel.app/)**: a digital banking app with authentication, dashboards, and secure user workflows.
+- **[FinanceFlow](https://financeflow-nithub.vercel.app/)**: a finance tracker for transactions, budgets, and spending insights.
+- **webhook-ledger** *(in progress)*: a TypeScript payment-webhook receiver with signature verification, idempotency, and a transaction state machine.
 
+## Find me
+
+[Portfolio](https://akintek.netlify.app/) · [LinkedIn](https://linkedin.com/in/akinfola)
